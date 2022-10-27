@@ -16,6 +16,7 @@ public class Arrays {
 			System.out.printf("%5d%8d%n",counter,array[counter]);
 			}
 		
+		// for(int number : array)
 		
 		
 	}
