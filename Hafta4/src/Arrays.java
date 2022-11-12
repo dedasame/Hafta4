@@ -3,7 +3,7 @@ public class Arrays {
 
 	public static void main(String[] args) {
 		
-		final int ARRAY_LENGTH =10; //final degistirilemez
+		final int ARRAY_LENGTH =10; //final -> degistirilemez
 		int[] array = new int[ARRAY_LENGTH];
 		
 		for(int counter=0;counter<array.length;counter++) {

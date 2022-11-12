@@ -10,7 +10,7 @@ public class InitArrays {
 			System.out.printf("%5d%8d%n ",counter,array[counter]);
 			}
 		
-		System.out.println("Ters cevrilmis hali");
+		System.out.println("Reverse");
 		
 		for(int i=0;i<array.length/2;i++) {
 			int tmp;
@@ -22,7 +22,6 @@ public class InitArrays {
 		for(int j=0;j<array.length;j++) {
 			System.out.printf("%5d%8d%n",j,array[j]);	
 		}
-		
 		
 	}
 }
